@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Acti Memo サポート
+title: Acti Memo
 description: Acti Memo のサポートページです
 baseurl: "/home"
 url: "https://takyac.github.io/acti-memo"
