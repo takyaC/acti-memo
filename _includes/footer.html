@@ -13,8 +13,10 @@
                 src="{{ contact_icon_path }}"
                 alt="{{ contact.type }}"
               />
-
-              {% if contact.type == "email" %}
+              
+              <a href="{{ contact.link }}" id="{{ contact.type }}-link">{{ contact.name }}</a>
+              
+              <!-- {% if contact.type == "email" %}
                 {% if contact.cloak != false %}
                   {% assign email_parts = contact.value | split: "@" %}
                   {% assign user = email_parts[0] %}
@@ -47,7 +49,7 @@
                     {{ contact.name }}
                   {%- endif -%}
                 </a>
-              {% endif %}
+              {% endif %} -->
             </div>
 
           {% endfor %}

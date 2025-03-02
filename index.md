@@ -1,14 +1,16 @@
 ---
 layout: home
-profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
 ---
 
+<li>概要</li>
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Acti Memo のサポートページです。
+  ActiMemoは、トレーニング、学習、趣味など、あなたの大切な活動記録をテンプレートで管理できるアプリです。
 </p>
 
+<li>スクリーンショット</li>
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  <img src="./assets/img/content/dashboard.png" width="150px" style="padding:5px">
+  <img src="./assets/img/content/memo_edit.png" width="150px" style="padding:5px">
+  <img src="./assets/img/content/activity_select.png" width="150px" style="padding:5px">
 </p>
