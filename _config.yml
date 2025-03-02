@@ -4,9 +4,9 @@
 title: Acti Memo サポート
 description: Acti Memo のサポートページです
 baseurl: "/home"
-url: "https://eliottvincent.github.io"
+url: "https://takyac.github.io/acti-memo"
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+# google_analytics: "UA-121636368-3"
 
 header:
   pages:
