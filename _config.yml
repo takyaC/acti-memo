@@ -3,8 +3,8 @@
 
 title: Acti Memo
 description: Acti Memo のサポートページです
-baseurl: ""
-url: "https://takyac.github.io/acti-memo"
+baseurl: "acti-memo"
+url: "https://takyac.github.io"
 og_image: /assets/img/profile-pic.jpg
 # google_analytics: "UA-121636368-3"
 
