@@ -12,6 +12,8 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: Privacy Policy
+      slug: /privacy-policy
 
 footer:
   show_powered_by: false
