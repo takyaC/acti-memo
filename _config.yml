@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Acti Memo
-description: Acti Memo のサポートページです
-baseurl: "/acti-memo"
+title: きろくん
+description: きろくん のサポートページです
+baseurl: "/kirokun"
 url: "https://takyac.github.io"
 og_image: /assets/img/profile-pic.jpg
 # google_analytics: "UA-121636368-3"
